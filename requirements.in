@@ -1,0 +1,12 @@
+arrow
+backports.functools-lru-cache
+click
+flask
+itsdangerous
+jinja2
+markupsafe
+python-dateutil
+redis
+rq
+werkzeug
+Redis-Sentinel-Url
